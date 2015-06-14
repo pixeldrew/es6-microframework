@@ -1,0 +1,13 @@
+{
+  "env": {
+    "browser": true,
+    "node": true,
+    "amd": true
+  },
+  "rules": {
+    "quotes": [1, "single"],
+    "strict": 0,
+    "no-mixed-spaces-and-tabs": 1,
+    "indent": 2
+  }
+}
